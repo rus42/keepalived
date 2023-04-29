@@ -50,7 +50,7 @@ virtual_ipaddress {
 ```
 
 
-![alt text](https://github.com/rus42/prometheus2/blob/main/Task_1.png)
+![alt text](https://github.com/rus42/keepalive/blob/main/Task_1.png)
 
 ## Задание 2
 
@@ -60,5 +60,8 @@ virtual_ipaddress {
 ### запустите процесс ping на виртуальный хост;
 ### выключите интерфейс на одной ноде (мастер), остановите Wireshark;
 ### найдите пакеты ICMP, в которых будет отображён процесс изменения MAC-адреса одной ноды на другой.
+
+![alt text](https://github.com/rus42/keepalive/blob/main/Task_2.1.png)
+![alt text](https://github.com/rus42/keepalive/blob/main/Task_2.2.png)
 
 
